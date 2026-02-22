@@ -1,7 +1,5 @@
 # Food Security & Crop Yield Analysis – Karamoja Region (2017)
 
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 This project analyzes crop yield, production, and population data for the Karamoja region of Uganda to evaluate productivity differences between sorghum and maize, assess food availability per person, identify food security risk patterns, and test the statistical significance of yield differences.
 
@@ -143,12 +141,3 @@ Based on the analysis, we recommend:
 
 ---
 
-## Getting Started
-
-### Prerequisites
-- Python 3.8+
-- Required libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`
-
-Install dependencies with:
-```bash
-pip install -r requirements.txt
