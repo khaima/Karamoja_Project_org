@@ -1,4 +1,5 @@
 Summary: Food Security & Crop Yield Analysis – Karamoja Region (2017)
+
 Project Overview
 Karamoja is one of the most food-insecure regions of Uganda. Low crop productivity—driven by drought, pests, and disease—contributes to chronic food shortages. NGOs and government agencies lack comprehensive visibility into crop performance and food security conditions. This analysis uses modeled satellite based yield estimates to identify vulnerable areas, quantify the yield gap between sorghum and maize, and provide actionable insights for targeted interventions.
 Business Problem
